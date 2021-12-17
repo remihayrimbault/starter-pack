@@ -2,7 +2,7 @@
 
 Complete NodeJS Starter Pack using WebPack
 
-## Installation
+## 🔌 Installation
 
 ```sh
 npm install
@@ -14,7 +14,7 @@ npm install
 npm start
 ```
 
-### 🚩 Build Prod Version
+## 🚩 Build Prod Version
 
 ```sh
 npm run build
