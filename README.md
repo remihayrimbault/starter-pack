@@ -1,7 +1,5 @@
 # 🏁 Starter Pack
 
-[![MIT License]
-
 Complete NodeJS Starter Pack using WebPack
 
 ## Installation
