@@ -2,19 +2,19 @@
 
 Complete NodeJS Starter Pack using WebPack
 
-## 🔌 Installation
+### 🔌 Installation
 
 ```sh
 npm install
 ```
 
-## 🚧 Start Dev Server
+### 🚧 Start Dev Server
 
 ```sh
 npm start
 ```
 
-## 🚩 Build Prod Version
+### 🚩 Build Prod Version
 
 ```sh
 npm run build
@@ -22,6 +22,7 @@ npm run build
 
 ## ✨ Features
 
+- CSS Reset via [tinyreset](https://github.com/ColinLienard/tinyreset.css) (v1)
 - ES6 Support via [babel](https://babeljs.io/) (v7)
 - JavaScript Linting via [eslint](https://eslint.org/)
 - SASS Support via [sass-loader](https://github.com/jtangelder/sass-loader)
